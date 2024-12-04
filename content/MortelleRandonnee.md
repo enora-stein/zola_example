@@ -13,4 +13,10 @@ toc = true
 
 *tata*
 **tata**
+
 ![Swiss Institute of Bioinformatics Literature Services](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png)
+
+| Tableau 1 |Tableau 2 |
+|-----------|----------|
+|Ligne 1, colonne 1| Ligne 1, colonne 2|
+|Ligne 2, colonne 1| Ligne 2, colonne 2|
