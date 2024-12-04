@@ -23,7 +23,8 @@
         <link rel="alternate" type="text/html" href="https://enora-stein.github.io/zola_example/mortellerandonnee/"/>
         <id>https://enora-stein.github.io/zola_example/mortellerandonnee/</id>
         
-        <content type="html" xml:base="https://enora-stein.github.io/zola_example/mortellerandonnee/">&lt;p&gt;tata&lt;&#x2F;p&gt;
+        <content type="html" xml:base="https://enora-stein.github.io/zola_example/mortellerandonnee/">&lt;p&gt;&lt;em&gt;tata&lt;&#x2F;em&gt;
+&lt;strong&gt;tata&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 </content>
         
     </entry>
