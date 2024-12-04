@@ -22,3 +22,7 @@ toc = true
 |Baguette| Croissant|
 |Tresse| Pain au chocolat|
 ----
+
+Référence1[^1]
+Référence2[^2]
+
