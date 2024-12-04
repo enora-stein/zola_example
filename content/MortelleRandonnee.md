@@ -18,7 +18,7 @@ toc = true
 
 ----
 | Pain |Viennoiseries |
-|-----------|----------|
+|------|------|
 |Baguette| Croissant|
 |Tresse| Pain au chocolat|
 ----
