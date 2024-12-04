@@ -16,7 +16,7 @@ toc = true
 
 ![Swiss Institute of Bioinformatics Literature Services](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png "Swiss Institute of Bioinformatics Literature Services")
 
-| Tableau 1 |Tableau 2 |
+| Pain |Viennoiseries |
 |-----------|----------|
-|Ligne 1, colonne 1| Ligne 1, colonne 2|
-|Ligne 2, colonne 1| Ligne 2, colonne 2|
+|Baguette| Croissant|
+|Tresse| Pain au chocolat|
