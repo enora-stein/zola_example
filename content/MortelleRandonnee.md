@@ -17,10 +17,10 @@ toc = true
 ![Swiss Institute of Bioinformatics Literature Services](https://biodiversitypmc.sibils.org/img/logo_banner.7ff68d4d.png "Swiss Institute of Bioinformatics Literature Services")
 
 ----
-| Pain |Viennoiseries |
+| Pain |Viennoiseries |Pâtisseries|
 |------|------|
-|Baguette| Croissant|
-|Tresse| Pain au chocolat|
+|Baguette| Croissant|Flan|
+|Tresse| Pain au chocolat|Éclair|
 ----
 
 « *Biodiversity* **PMC** »: [Biodiversitypmc](/"https://biodiversitypmc.sibils.org/") 
