@@ -27,11 +27,10 @@
 &lt;strong&gt;tata&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;img&#x2F;logo_banner.7ff68d4d.png&quot; alt=&quot;Swiss Institute of Bioinformatics Literature Services&quot; title=&quot;Swiss Institute of Bioinformatics Literature Services&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;hr &#x2F;&gt;
-&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Pain&lt;&#x2F;th&gt;&lt;th&gt;Viennoiseries&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
-&lt;tr&gt;&lt;td&gt;Baguette&lt;&#x2F;td&gt;&lt;td&gt;Croissant&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;tr&gt;&lt;td&gt;Tresse&lt;&#x2F;td&gt;&lt;td&gt;Pain au chocolat&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
-&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
-&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;pain-viennoiseries-patisseries-baguette-croissant-flan-tresse-pain-au-chocolat-eclair&quot;&gt;| Pain |Viennoiseries |Pâtisseries|
+|------|------|
+|Baguette| Croissant|Flan|
+|Tresse| Pain au chocolat|Éclair|&lt;&#x2F;h2&gt;
 &lt;p&gt;« &lt;em&gt;Biodiversity&lt;&#x2F;em&gt; &lt;strong&gt;PMC&lt;&#x2F;strong&gt; »: &lt;a href=&quot;&#x2F;%22https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;%22&quot;&gt;Biodiversitypmc&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Référence1&lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-1-1&quot;&gt;&lt;a href=&quot;#fn-1&quot;&gt;[1]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;.
 Référence2&lt;sup class=&quot;footnote-reference&quot; id=&quot;fr-2-1&quot;&gt;&lt;a href=&quot;#fn-2&quot;&gt;[2]&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;.&lt;&#x2F;p&gt;
