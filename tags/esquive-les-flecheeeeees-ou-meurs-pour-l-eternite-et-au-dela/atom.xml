@@ -25,7 +25,7 @@
         
         <content type="html" xml:base="https://enora-stein.github.io/zola_example/mortellerandonnee/">&lt;p&gt;&lt;em&gt;tata&lt;&#x2F;em&gt;
 &lt;strong&gt;tata&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;img&#x2F;logo_banner.7ff68d4d.png&quot; alt=&quot;Swiss Institute of Bioinformatics Literature Services&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;img&#x2F;logo_banner.7ff68d4d.png&quot; alt=&quot;Swiss Institute of Bioinformatics Literature Services&quot; title=&quot;Swiss Institute of Bioinformatics Literature Services&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
 &lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;Tableau 1&lt;&#x2F;th&gt;&lt;th&gt;Tableau 2&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
 &lt;tr&gt;&lt;td&gt;Ligne 1, colonne 1&lt;&#x2F;td&gt;&lt;td&gt;Ligne 1, colonne 2&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
 &lt;tr&gt;&lt;td&gt;Ligne 2, colonne 1&lt;&#x2F;td&gt;&lt;td&gt;Ligne 2, colonne 2&lt;&#x2F;td&gt;&lt;&#x2F;tr&gt;
