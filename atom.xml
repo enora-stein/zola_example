@@ -307,8 +307,8 @@
 &lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
 &lt;hr &#x2F;&gt;
 &lt;p&gt;« &lt;em&gt;Biodiversity&lt;&#x2F;em&gt; &lt;strong&gt;PMC&lt;&#x2F;strong&gt; »: &lt;a href=&quot;&#x2F;%22https:&#x2F;&#x2F;biodiversitypmc.sibils.org&#x2F;%22&quot;&gt;Biodiversitypmc&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;Référence1[^1]
-Référence2[^2]&lt;&#x2F;p&gt;
+&lt;hr&gt;&lt;ol class=&quot;footnotes-list&quot;&gt;
+&lt;&#x2F;ol&gt;
 </content>
         
     </entry>
